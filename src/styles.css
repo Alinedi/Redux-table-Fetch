@@ -1,0 +1,23 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+table {
+  width: 100%;
+  border-spacing: 0;
+  border-inline: 1px solid;
+}
+
+th {
+  text-transform: uppercase;
+  padding: 10px;
+  text-align: left;
+  font-weight: bold;
+  border: 1px solid;
+}
+
+td {
+  border: 1px solid;
+  padding: 10px;
+}
